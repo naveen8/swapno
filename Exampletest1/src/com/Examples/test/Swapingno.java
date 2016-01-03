@@ -19,5 +19,6 @@ public class Swapingno
       y = temp;
  
       System.out.println("After Swapping\nx = "+x+"\ny = "+y);
+      System.out.println("Test1");
    }
 }
